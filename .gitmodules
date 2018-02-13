@@ -18,3 +18,23 @@
 	path = sdl-net
 	url = https://github.com/shedbuilt/sdl-net.git
     branch = .
+[submodule "sdl-mixer"]
+	path = sdl-mixer
+	url = https://github.com/shedbuilt/sdl-mixer.git
+	branch = .
+[submodule "sdl-gfx"]
+	path = sdl-gfx
+	url = https://github.com/shedbuilt/sdl-gfx.git
+	branch = .
+[submodule "sdl-image"]
+	path = sdl-image
+	url = https://github.com/shedbuilt/sdl-image.git
+	branch = .
+[submodule "libpng"]
+	path = libpng
+	url = https://github.com/shedbuilt/libpng.git
+	branch = .
+[submodule "libjpeg-turbo"]
+	path = libjpeg-turbo
+	url = https://github.com/shedbuilt/libjpeg-turbo.git
+	branch = .
