@@ -38,3 +38,11 @@
 	path = libjpeg-turbo
 	url = https://github.com/shedbuilt/libjpeg-turbo.git
 	branch = .
+[submodule "sdl-ttf"]
+	path = sdl-ttf
+	url = https://github.com/shedbuilt/sdl-ttf.git
+	branch = .
+[submodule "pygame"]
+	path = pygame
+	url = https://github.com/shedbuilt/pygame.git
+	branch = .
