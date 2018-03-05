@@ -30,14 +30,6 @@
 	path = sdl-image
 	url = https://github.com/shedbuilt/sdl-image.git
 	branch = .
-[submodule "libpng"]
-	path = libpng
-	url = https://github.com/shedbuilt/libpng.git
-	branch = .
-[submodule "libjpeg-turbo"]
-	path = libjpeg-turbo
-	url = https://github.com/shedbuilt/libjpeg-turbo.git
-	branch = .
 [submodule "sdl-ttf"]
 	path = sdl-ttf
 	url = https://github.com/shedbuilt/sdl-ttf.git
