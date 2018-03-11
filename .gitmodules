@@ -1,15 +1,3 @@
-[submodule "alsa-lib"]
-	path = alsa-lib
-	url = https://github.com/shedbuilt/alsa-lib.git
-    branch = .
-[submodule "alsa-plugins"]
-	path = alsa-plugins
-	url = https://github.com/shedbuilt/alsa-plugins.git
-    branch = .
-[submodule "alsa-utils"]
-	path = alsa-utils
-	url = https://github.com/shedbuilt/alsa-utils.git
-    branch = .
 [submodule "sdl"]
 	path = sdl
 	url = https://github.com/shedbuilt/sdl.git
