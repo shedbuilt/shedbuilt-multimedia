@@ -26,3 +26,19 @@
 	path = pygame
 	url = https://github.com/shedbuilt/pygame.git
 	branch = .
+[submodule "sdl2"]
+	path = sdl2
+	url = https://github.com/shedbuilt/sdl2.git
+	branch = .
+[submodule "sdl2-image"]
+	path = sdl2-image
+	url = https://github.com/shedbuilt/sdl2-image.git
+	branch = .
+[submodule "sdl2-mixer"]
+	path = sdl2-mixer
+	url = https://github.com/shedbuilt/sdl2-mixer.git
+	branch = .
+[submodule "sdl2-net"]
+	path = sdl2-net
+	url = https://github.com/shedbuilt/sdl2-net.git
+	branch = .
